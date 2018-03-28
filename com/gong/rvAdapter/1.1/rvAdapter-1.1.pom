@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>25.3.1</version>
+      <version>25.3.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
